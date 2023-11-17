@@ -1,8 +1,3 @@
-function hideGif() {
-  var gif = document.getElementById("gif");
-  gif.style.display = "none";
-}
-
 var forwardTimeout, backwardTimeout;
 $(document).ready(function() {
   $("#your-text").focus(), $(".your-text").on("input", function(t) {
