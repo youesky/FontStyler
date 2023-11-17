@@ -61,9 +61,3 @@ header h1 {
   color: #333;
   /* Text color for fancy text blocks */
 }
-
-#gif {
-  width: 100%;
-  height: auto;
-  transition: opacity 2s; /* Add a smooth transition effect */
-}
